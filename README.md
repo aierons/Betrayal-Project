@@ -1,6 +1,8 @@
-This isn't really a README. It's just a text document full of shit that was written at 4 am.
-So honestly, the only thing correct about this is probably the filetype. Then again, what the fk is markdown supposed to do anyways.
+Please note that this is unofficially licensed and is created by geeks who would like to play this amazing board game without being in the same physical place. 
 
+This game will be developed in Unity. 
+
+# Setup 
 Tile Prefab
 - Texture
 - Possible Floors
